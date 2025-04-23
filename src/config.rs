@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.pangang.top"];
-pub const RS_PUB_KEY: &str = "1zTTIA4ZMFIcoIRoP8kQyKDjtFMtbFOghynaBWylQUo=";
+pub const RS_PUB_KEY: &str = "G0JvsvyEMzqLTgopQe6QzJxsnI9kqU9P26zSpmjPb0c=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
